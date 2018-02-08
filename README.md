@@ -1,2 +1,7 @@
-# ctf-writeup
-CTF write-ups by DKU Aegis
+# Reverse Engineering Repository
+- Packer
+- Instrumentation
+- Hooking
+- Windows
+- Android
+- Linux
